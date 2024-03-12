@@ -8,3 +8,5 @@ This program slices a PDF into image slices, allows the user to replace specific
     pdf2image  1.17.0
     PyPDF2     3.0.1
     pillow     10.2.0
+
+#### Python Version: 3.11
