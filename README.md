@@ -3,7 +3,7 @@
 ## About
 This program slices a PDF into image slices, allows the user to replace specific colors in the PDF, and stiches the image slices back into an output PDF.
 
-### Library    Version
+### Library    Versions
     img2pdf    0.5.1
     pdf2image  1.17.0
     PyPDF2     3.0.1
